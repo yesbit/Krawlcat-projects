@@ -1,6 +1,6 @@
 # Krawlcat-documentation
 
-## Current Medianizer Address : 0x03898c688e6168F3600da15bc53e2eeb673Ca5B9
+## Current Medianizer Address 0x03898c688e6168F3600da15bc53e2eeb673Ca5B9
 
 ## Interaction Steps 
 
