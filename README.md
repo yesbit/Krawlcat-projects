@@ -7,6 +7,7 @@
 ## Pre Requirements and Interaction Steps 
 
  You will need KCT tokens to deposit into the Medianizer first in order to read the correct value from the Oracle Network. 
+ 
  Here are the following steps:
 
 1. Create a pull request with your Metamask Ropsten account address and we will deposit 10 KCT tokens to your account shortly
