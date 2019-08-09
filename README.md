@@ -8,7 +8,7 @@ In order to participate in the Krawlcat network, a proof of stake is required wh
 
 Everytime new data is posted into the network, the smart contract calculates the median and stores it as a singular value. This value can be read and accessed by third parties as a source of truth. With positive contribution to the network the units are rewarded in ERC20 tokens. Large deviations from the current price while posting is handled in the client side. The units are required to post at-least one data point every 2 hours. If they are unable to do so, their rewards are penalized and decreases in amount.
 
-## Other third party participants can read the data from the Krawlcat test network with the following steps:
+## Read the data from the Krawlcat test network with the following steps:
 
 ### Current Medianizer Address 0x03898c688e6168F3600da15bc53e2eeb673Ca5B9
 
