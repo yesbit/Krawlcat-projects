@@ -1,10 +1,20 @@
 # Krawlcat-documentation
 
-## Current Medianizer Address 0x03898c688e6168F3600da15bc53e2eeb673Ca5B9
+## Krawlcat Netowork Description 
 
-## Current Token Address 0xb271E35114A4994D6471EDF5f0a832c851051233
+Krawlcat is a Layer-2 decentralized oracle protocol that is built on the Ethereum blockchain. Anyone can participate in the network through the hardware device 'Krawlcat' which runs a nodejs server that communite with open cryptocurrency APIs. With client side validation in place the average values of prices are taken and posted to the smart contract from each individual 'Krawlcat' unit.
 
-## Pre Requirements and Interaction Steps 
+In order to participate in the Krawlcat network, a proof of stake is required where the unit holder is asked to deposit 5000 tokens before contributing data to the network. This is to prevent arbitary or polluted data enter the network. The participant can unstake anytime and withdraw itself from the network. Once unstaked, the unit is unable to contribute to the network and post data to the smart contract.
+
+Everytime new data is posted into the network, the smart contract calculates the median and stores it as a singular value. This value can be read and accessed by third parties as a source of truth. With positive contribution to the network the units are rewarded in ERC20 tokens. Large deviations from the current price while posting is handled in the client side. The units are required to post at-least one data point every 2 hours. If they are unable to do so, their rewards are penalized and decreases in amount.
+
+## Other third party participants can read the data from the Krawlcat test network with the following steps:
+
+### Current Medianizer Address 0x03898c688e6168F3600da15bc53e2eeb673Ca5B9
+
+### Current Token Address 0xb271E35114A4994D6471EDF5f0a832c851051233
+
+### Pre Requirements and Interaction Steps 
 
  You will need KCT tokens to deposit into the Medianizer first in order to read the correct value from the Oracle Network. 
  
