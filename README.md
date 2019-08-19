@@ -35,6 +35,13 @@ Everytime new data is posted into the network, the smart contract calculates the
 3. Once the transaction goes through for your subscription, use the read() function to view prices for BTC or ETH markets. The returned result is the price of the assest in big number (10^18)
 
 4. Build anything you wish with the Oracle Price! 
+
+
+### Resources 
+
+* Build according to swagger documentation - https://swagger.io/docs/
+
+* Examples include - chainlink documentation -> https://docs.chain.link/docs/welcome-to-chainlink
     
 
 
