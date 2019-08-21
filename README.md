@@ -42,6 +42,8 @@ Everytime new data is posted into the network, the smart contract calculates the
 * Build according to swagger documentation - https://swagger.io/docs/
 
 * Examples include - chainlink documentation -> https://docs.chain.link/docs/welcome-to-chainlink
+
+* look into -> https://readme.com/
     
 
 
