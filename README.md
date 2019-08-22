@@ -28,14 +28,6 @@ Current Medianizer Address 0x03898c688e6168F3600da15bc53e2eeb673Ca5B9
 3. Build anything you wish with the Oracle Price! 
 
 
-### Resources 
-
-* Build according to swagger documentation - https://swagger.io/docs/
-
-* Examples include - chainlink documentation -> https://docs.chain.link/docs/welcome-to-chainlink
-
-* look into -> https://readme.com/
-    
 
 
 
