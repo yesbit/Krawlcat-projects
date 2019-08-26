@@ -13,7 +13,9 @@ Everytime new data is posted into the network, the smart contract calculates the
 ```
 Network - Ropsten 
 
-Current Medianizer Address 0x03898c688e6168F3600da15bc53e2eeb673Ca5B9
+Current Medianizer Address 0x72bDC2A2b1Cf6E68332fD3f38800A6Ab0Cc53a06 OR 0xc38ca12f1ABe102F9f9E282754679A11BBC6dd81
+
+Current Token Rewards Address 0xDE054F0BAeB7A9C0EBCe5Ce171BCa8C81dD371F5
 ```
 
 ### Interaction steps for retrieving the Oracle data 
